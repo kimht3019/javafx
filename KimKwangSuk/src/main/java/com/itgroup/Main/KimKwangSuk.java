@@ -28,7 +28,7 @@ public class KimKwangSuk extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-    // 메인 메소드.
+    // 메인 메소드
 
 }
 
